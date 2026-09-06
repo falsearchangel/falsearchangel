@@ -4,4 +4,4 @@
 
 <p align="center">
 
-![gif](https://github.com/user-attachments/assets/7dcaf342-9745-400f-aabe-59c0ef303d43)![gif](https://github.com/user-attachments/assets/3e50ae87-c95f-4033-8c07-b6db10df8b42)![gif](https://github.com/user-attachments/assets/7bbfc0dd-f245-4602-9f27-7b58a6153b3f)
+![gif](https://github.com/user-attachments/assets/7dcaf342-9745-400f-aabe-59c0ef303d43)![gif](https://github.com/user-attachments/assets/3e50ae87-c95f-4033-8c07-b6db10df8b42)![gif](https://github.com/user-attachments/assets/7bbfc0dd-f245-4602-9f27-7b58a6153b3f)![image](https://github.com/user-attachments/assets/2c919a96-1527-4961-bc21-bf5b3e5f29cc)
