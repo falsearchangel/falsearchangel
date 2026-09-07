@@ -1,4 +1,7 @@
-![](https://komarev.com/ghpvc/?username=tragicomedyy&label=cupcakes%20baked&color=F28B8B&labelColor=F28B8B)
+
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=tragicomedyy&label=cupcakes%20baked&color=F28B8B&labelColor=F28B8B)
 
 ![image](https://github.com/user-attachments/assets/c2fbf364-9ea4-40a0-9d8a-606b5ad11c9c)
 
