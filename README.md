@@ -19,7 +19,7 @@
 
 ` tmc - blinkies/stamps
 
-![image](https://github.com/user-attachments/assets/813da969-1834-453e-942d-159cfb1b194b)![gif](https://github.com/user-attachments/assets/8b086df6-8a55-4aa5-9194-85a3f0963a61)
+![image](https://github.com/user-attachments/assets/813da969-1834-453e-942d-159cfb1b194b)![gif](https://github.com/user-attachments/assets/8b086df6-8a55-4aa5-9194-85a3f0963a61)![gif](https://github.com/user-attachments/assets/850daf18-f7bd-4189-8690-9f87f2a23392)![Image](https://github.com/user-attachments/assets/bb518a24-82eb-49f8-8e46-7927f422f810)
 
 ![gif](https://github.com/user-attachments/assets/7bbfc0dd-f245-4602-9f27-7b58a6153b3f)![gif](https://github.com/user-attachments/assets/3e50ae87-c95f-4033-8c07-b6db10df8b42)![image](https://github.com/user-attachments/assets/7dcaf342-9745-400f-aabe-59c0ef303d43)![gif](https://github.com/user-attachments/assets/a3afde9d-963f-4ec8-a1d7-f7967551c9c1)![image](https://github.com/user-attachments/assets/4a5216f0-d35d-43dd-a641-18275d866e6f)
 
